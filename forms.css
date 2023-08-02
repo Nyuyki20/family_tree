@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: url('images/123.jpg') no-repeat;
+  }
+  .form {
+    align-items: center;
+    justify-content: center;
+    width: 420px;
+    padding: 25px;
+    border: 3px solid white;
+    border-radius: 20px;
+    color: white;
+  
+  }
+  .form label {
+    font-size: 20px;
+  }
+  
+  .form input {
+    width: 400px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 15px;
+    border: 1px solid white;
+    color: black;
+    padding: 4px 0px 0px 10px;
+  }
+  
+  .form i {
+    margin-left: -25px;
+    color: black;
+   }
+  
+  .form p {
+    text-align: right;
+  }
+  
+  .form p a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .form p a:hover {
+    text-decoration: underline;
+    color: blue;
+  }
+  
+  .form button {
+    width: 35%;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background: black;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30%;
+  }
+  
+  .form button:hover {
+    cursor: pointer;
+    background: grey;
+  }
+  
+  .form h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  .form span {
+    margin-left: 50px;
+  }
+  
+  .form span a {
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: none;
+  }
+  
+  .form span a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
