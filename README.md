@@ -1,2 +1,2 @@
 # family_tree
-This is website that shows family and relations
+This is a website that shows family and relations
